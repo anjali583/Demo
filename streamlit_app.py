@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import matplotlib.pyplot as plt
-df=pd.read_csv('data/Iris.csv')
+df=pd.read_csv('Iris.csv')
 st.set_page_config(
     page_title="IRIS FLOWER DASHBOARD",
     page_icon="✅",
